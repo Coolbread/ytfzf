@@ -42,7 +42,7 @@ export YTFZF_PID=$$
 
 # There are only a couple tooling methods that I know of for debugging (other than printing stuff everywhere)
 # set log_level to 3, and set YTFZF_LOGFILE=./some-file.log
-# set -x may also be used.
+# set -x may also be used. THIS IS COMMIT FROM 2 BRANCH 1-ST TIME.
 
 ############################
 #        CODE STYLE        #
